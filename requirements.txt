@@ -1,0 +1,9 @@
+matplotlib==3.10.6
+pandas==2.3.2
+ptflops==0.7.5
+scikit_learn==1.7.2
+seaborn==0.13.2
+setuptools==75.1.0
+torch-gpu==2.6.0
+torchvision-gpu==0.21.0
+tqdm==4.67.1

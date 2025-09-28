@@ -1,0 +1,8 @@
+Model,MACs,Params,Precision,Recall,F1,Support
+ResNet18,1.82 GMac,11.18 M,0.74,0.73,0.73,10000.0
+ResNet34,3.68 GMac,21.29 M,0.74,0.74,0.74,10000.0
+ResNet50,4.13 GMac,23.53 M,0.76,0.76,0.75,10000.0
+ResNet101,7.86 GMac,42.52 M,0.4,0.3,0.26,10000.0
+ResNet18_Preactivation,1.83 GMac,11.18 M,0.69,0.69,0.69,10000.0
+ResNet34_Preactivation,3.68 GMac,21.29 M,0.71,0.71,0.71,10000.0
+ResNet50_Preactivation,4.13 GMac,23.52 M,0.08,0.12,0.06,10000.0
